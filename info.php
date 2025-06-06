@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-echo "kailas johin";
+echo "kailas","dhaya","johin";
 ?> 
